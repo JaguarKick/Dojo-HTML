@@ -1,0 +1,35 @@
+* {
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    border-color: yellow;
+}
+
+h1,h3,h4 {
+    color:aliceblue;
+}
+body {
+    background: black;
+}
+h1 {
+    font-size:30pt;
+    text-decoration: underline;
+}
+
+p {
+    font-family: cursive;
+    color:#1ad4d4;
+    text-align: justify;
+}
+.asteriod {
+    color:red;
+    font-size:12pt;
+}
+
+h3 {
+    font-size:20pt;
+}
+
+h4 {
+    font-size:12pt;
+}
